@@ -1,0 +1,10 @@
+{
+  "description": "Generates AI-powered content and features to enhance websites, helping users create engaging, dynamic online experiences effortlessly.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
