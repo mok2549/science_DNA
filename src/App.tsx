@@ -236,7 +236,7 @@ function GamesSection({ onPlay }: { onPlay: () => void }) {
 
 function AboutSection() {
   const features = [
-    { emoji: "🎯", label: "ตามหลักสูตร ม.ต้น" },
+    { emoji: "🎯", label: "ตามหลักสูตร มัธยม" },
     { emoji: "💡", label: "อธิบายเข้าใจง่าย" },
     { emoji: "🎮", label: "เรียนรู้ผ่านการเล่น" },
   ];
@@ -292,7 +292,7 @@ function Footer() {
   return (
     <footer className="px-6 py-8 text-center" style={{ borderTop: "2px solid #e0f2fe", background: "rgba(255,255,255,0.7)" }}>
       <p style={{ fontFamily: KID_FONT, fontSize: 15, fontWeight: 600, color: "#64748b" }}>
-        🧬 Helixis — สื่อการเรียนรู้วิทยาศาสตร์ DNA สำหรับเด็กไทย
+        🧬 Helixis — สื่อการเรียนรู้วิทยาศาสตร์ DNA 
       </p>
     </footer>
   );
