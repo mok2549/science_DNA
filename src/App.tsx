@@ -101,8 +101,7 @@ function HeroSection({ onPlay }: { onPlay: () => void }) {
 
       <p style={{ fontFamily: KID_FONT, fontSize: 19, fontWeight: 500, color: "#64748b", maxWidth: 560, lineHeight: 1.8, marginBottom: "2.5rem" }}>
         สำรวจโลกแสนมหัศจรรย์ของ DNA และพันธุกรรม
-        ผ่านเกมสนุกๆ ที่ออกแบบมาเพื่อนักเรียนไทยโดยเฉพาะ
-        เรียนไป เล่นไป สนุกไปด้วยกัน!
+        ผ่านเกมสนุกๆ 
       </p>
 
       <button
@@ -257,10 +256,10 @@ function AboutSection() {
       >
         <span style={{ fontFamily: KID_FONT, fontSize: 15, fontWeight: 600, color: "#0d9488" }}>🧡 เกี่ยวกับเว็บนี้</span>
         <h2 style={{ fontFamily: KID_FONT, fontSize: 34, fontWeight: 700, color: "#1e293b", marginTop: 8, marginBottom: 16 }}>
-          ออกแบบมาเพื่อนักเรียนไทย
+          
         </h2>
         <p style={{ fontFamily: KID_FONT, fontSize: 17, fontWeight: 500, color: "#475569", lineHeight: 1.9, maxWidth: 620, margin: "0 auto 28px" }}>
-          สื่อการเรียนรู้ชุดนี้สร้างขึ้นเพื่อใช้ในห้องเรียนวิทยาศาสตร์ระดับมัธยมศึกษาตอนต้น
+          สื่อการเรียนรู้ชุดนี้สร้างขึ้นเพื่อใช้ในห้องเรียนวิทยาศาสตร์ระดับมัธยมศึกษา
           ครอบคลุมเนื้อหาเรื่อง DNA พันธุกรรม และชีววิทยาโมเลกุล
           ตามหลักสูตรแกนกลางการศึกษาขั้นพื้นฐาน ให้เรียนรู้ได้ง่ายและสนุกกว่าเดิม
         </p>
